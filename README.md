@@ -7,12 +7,8 @@
 
 ### Repositoy 생성 가이드
 * 우측상단의 "+" 마크 클릭하여 New Repository 선택
-  
-  <img src="./repo_create1.jpg"  width="800">
-  
 * 만일 다수 Owner가 나올 경우 **반드시** "2021-1-Ajou-TDD-Assignment" 선택
-  
-  <img src="./repo_create2.jpg"  width="800">
+
   
 ### 유의사항
 * 리포지토리 명은 반드시 **"학번_영문이름"** 으로 함.
